@@ -10560,10 +10560,65 @@
             "rating": 1,
             "vn_id": 79
         },
+        "3019": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 71
+        },
         "302": {
             "member_id": 421485172010123284,
             "rating": 1,
             "vn_id": 26
+        },
+        "3020": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 66
+        },
+        "3021": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 70
+        },
+        "3022": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "3023": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "3024": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "3025": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 96
+        },
+        "3026": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 38
+        },
+        "3027": {
+            "member_id": 139831019783192577,
+            "rating": 1,
+            "vn_id": 108
+        },
+        "3028": {
+            "member_id": 304779179000463360,
+            "rating": 1,
+            "vn_id": 107
+        },
+        "3029": {
+            "member_id": 304779179000463360,
+            "rating": 1,
+            "vn_id": 15
         },
         "303": {
             "member_id": 268748434972999680,
@@ -14403,6 +14458,42 @@
             "store": "https://jderingtail.itch.io/ad-infinitum",
             "undetermined": true
         },
+        "107": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "DyneWulf"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750118247294304286/ZR8uJ1.png",
+            "message_id": 750118313845325896,
+            "name": "Monster Hunting... For Love!",
+            "store": "https://dynewulf.itch.io/mhfl",
+            "undetermined": false
+        },
+        "108": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "ryan rose aceae"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750118718289477742/RbAnBv.png",
+            "message_id": 750118765462683689,
+            "name": "Gay Monster Kiss Club",
+            "store": "https://gendervamp.itch.io/gay-monster-kiss-club",
+            "undetermined": true
+        },
+        "109": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Grizzy"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750119271203340318/2BEufu4.png",
+            "message_id": 750119310457962577,
+            "name": "Cold",
+            "store": "https://grizzystudios.itch.io/cold",
+            "undetermined": true
+        },
         "11": {
             "abbreviations": [],
             "android_support": false,
@@ -14413,6 +14504,18 @@
             "message_id": 749989975227105371,
             "name": "My Time At Etheria",
             "store": "https://bara-diction.itch.io/my-time-at-etheria-demo",
+            "undetermined": true
+        },
+        "110": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Ziul Walls"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750119438174519447/YL8QuR.png",
+            "message_id": 750119479903780864,
+            "name": "Soft Fantasies",
+            "store": "https://ziul-walls.itch.io/soft-fantasies",
             "undetermined": true
         },
         "12": {
