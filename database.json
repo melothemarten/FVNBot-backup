@@ -1,15 +1,29 @@
 {
+    "rating": {
+        "1": {
+            "member_id": 129819557115199488,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "2": {
+            "member_id": 154594175008899072,
+            "rating": 1,
+            "vn_id": 2
+        }
+    },
     "visual_novel": {
         "1": {
-            "abbreviations": [],
+            "abbreviations": [
+                "fbi"
+            ],
             "android_support": true,
             "authors": [
-                "The Echo Project"
+                "Xarishro"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749911839281774592/rfT4O2F.png",
-            "message_id": null,
-            "name": "Echo",
-            "store": "https://echoproject.itch.io/echo",
+            "image": "https://cdn.discordapp.com/attachments/709761292709396615/749446656415498270/NWfZYy.png",
+            "message_id": 749918697707143208,
+            "name": "Fueled By Insanity",
+            "store": "https://xarishro.itch.io/fueled-by-insanity",
             "undetermined": false
         },
         "2": {
@@ -18,8 +32,8 @@
             "authors": [
                 "The Echo Project"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749912666444922890/rfT4O2F.png",
-            "message_id": 749912688221749298,
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749917970570018816/rfT4O2F.png",
+            "message_id": 749918097972002917,
             "name": "Echo",
             "store": "https://echoproject.itch.io/echo",
             "undetermined": false
