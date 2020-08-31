@@ -1,0 +1,28 @@
+{
+    "visual_novel": {
+        "1": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "The Echo Project"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749911839281774592/rfT4O2F.png",
+            "message_id": null,
+            "name": "Echo",
+            "store": "https://echoproject.itch.io/echo",
+            "undetermined": false
+        },
+        "2": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "The Echo Project"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749912666444922890/rfT4O2F.png",
+            "message_id": 749912688221749298,
+            "name": "Echo",
+            "store": "https://echoproject.itch.io/echo",
+            "undetermined": false
+        }
+    }
+}
