@@ -9765,15 +9765,130 @@
             "rating": -1,
             "vn_id": 19
         },
+        "2877": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 62
+        },
+        "2878": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 60
+        },
+        "2879": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 59
+        },
         "288": {
             "member_id": 453285599835586602,
             "rating": 1,
             "vn_id": 25
         },
+        "2880": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 57
+        },
+        "2881": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 103
+        },
+        "2882": {
+            "member_id": 289365869036044288,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "2883": {
+            "member_id": 289365869036044288,
+            "rating": 1,
+            "vn_id": 65
+        },
+        "2884": {
+            "member_id": 289365869036044288,
+            "rating": -1,
+            "vn_id": 95
+        },
+        "2885": {
+            "member_id": 73375128251011072,
+            "rating": 1,
+            "vn_id": 65
+        },
+        "2886": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 2
+        },
+        "2887": {
+            "member_id": 73375128251011072,
+            "rating": 1,
+            "vn_id": 75
+        },
+        "2888": {
+            "member_id": 73375128251011072,
+            "rating": 1,
+            "vn_id": 79
+        },
+        "2889": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 10
+        },
         "289": {
             "member_id": 421485172010123284,
             "rating": 1,
             "vn_id": 25
+        },
+        "2890": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 12
+        },
+        "2891": {
+            "member_id": 139831019783192577,
+            "rating": -1,
+            "vn_id": 73
+        },
+        "2892": {
+            "member_id": 139831019783192577,
+            "rating": 1,
+            "vn_id": 97
+        },
+        "2893": {
+            "member_id": 179331993606029312,
+            "rating": 1,
+            "vn_id": 24
+        },
+        "2894": {
+            "member_id": 333120405705326593,
+            "rating": 1,
+            "vn_id": 24
+        },
+        "2895": {
+            "member_id": 221262529589018624,
+            "rating": 1,
+            "vn_id": 69
+        },
+        "2896": {
+            "member_id": 139831019783192577,
+            "rating": -1,
+            "vn_id": 53
+        },
+        "2897": {
+            "member_id": 139831019783192577,
+            "rating": -1,
+            "vn_id": 52
+        },
+        "2898": {
+            "member_id": 323565401977913364,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "2899": {
+            "member_id": 323565401977913364,
+            "rating": 1,
+            "vn_id": 72
         },
         "29": {
             "member_id": 300308194507620362,
@@ -9785,13 +9900,118 @@
             "rating": 1,
             "vn_id": 25
         },
+        "2900": {
+            "member_id": 247982981455675393,
+            "rating": -1,
+            "vn_id": 89
+        },
+        "2901": {
+            "member_id": 323565401977913364,
+            "rating": -1,
+            "vn_id": 82
+        },
+        "2902": {
+            "member_id": 323565401977913364,
+            "rating": -1,
+            "vn_id": 89
+        },
+        "2903": {
+            "member_id": 247982981455675393,
+            "rating": 1,
+            "vn_id": 15
+        },
+        "2904": {
+            "member_id": 323565401977913364,
+            "rating": -1,
+            "vn_id": 95
+        },
+        "2905": {
+            "member_id": 323565401977913364,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "2906": {
+            "member_id": 322430458916765696,
+            "rating": 1,
+            "vn_id": 24
+        },
+        "2907": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 15
+        },
+        "2908": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "2909": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 96
+        },
         "291": {
             "member_id": 347717172426178560,
             "rating": 1,
             "vn_id": 25
         },
+        "2910": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "2911": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "2912": {
+            "member_id": 214531396520116224,
+            "rating": 1,
+            "vn_id": 15
+        },
+        "2913": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "2914": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 67
+        },
+        "2915": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "2916": {
+            "member_id": 715604606540972113,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "2917": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "2918": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 16
+        },
+        "2919": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 25
+        },
         "292": {
             "member_id": 330427976057618433,
+            "rating": 1,
+            "vn_id": 25
+        },
+        "2920": {
+            "member_id": 723238105724878959,
             "rating": 1,
             "vn_id": 25
         },
@@ -13736,10 +13956,10 @@
                 "Roddorod"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749948931450077254/LMxs4D.gif",
-            "message_id": 749989997356122192,
+            "message_id": 750004220396306482,
             "name": "Nerus",
             "store": "https://roddorod.itch.io/nerus",
-            "undetermined": true
+            "undetermined": false
         },
         "16": {
             "abbreviations": [],
@@ -13864,10 +14084,10 @@
                 "Harmonious"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749944191768985610/r9h5lR.png",
-            "message_id": 749990048216383598,
+            "message_id": 750003460640080013,
             "name": "BEYOND THE HARBOR",
             "store": "https://harmoyena.itch.io/beyond-the-harbor",
-            "undetermined": true
+            "undetermined": false
         },
         "25": {
             "abbreviations": [
@@ -13879,10 +14099,10 @@
                 "Cetus"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749944534733160498/Jx7J7K.png",
-            "message_id": 749990053475778581,
+            "message_id": 750009293234765977,
             "name": "I.C.O.",
             "store": "https://cetus-teh-otter.itch.io/ico",
-            "undetermined": true
+            "undetermined": false
         },
         "26": {
             "abbreviations": [],
@@ -14037,10 +14257,10 @@
                 "Xarishro"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749949086207180880/NWfZYy.png",
-            "message_id": 749990121142616074,
+            "message_id": 750003872889700413,
             "name": "Fueled by Insanity",
             "store": "https://xarishro.itch.io/fueled-by-insanity",
-            "undetermined": true
+            "undetermined": false
         },
         "38": {
             "abbreviations": [
@@ -14087,10 +14307,10 @@
                 "Cockhole"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749949960811839488/LKCOA2F.png",
-            "message_id": 749990138376880248,
+            "message_id": 750009833972826242,
             "name": "9:22",
             "store": "https://cockhole.itch.io/9-22",
-            "undetermined": true
+            "undetermined": false
         },
         "41": {
             "abbreviations": [
@@ -14880,7 +15100,8 @@
         },
         "98": {
             "abbreviations": [
-                "mh"
+                "mh",
+                "minoh"
             ],
             "android_support": true,
             "authors": [
