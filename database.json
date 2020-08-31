@@ -1667,7 +1667,7 @@
         },
         "1328": {
             "member_id": 300308194507620362,
-            "rating": 1,
+            "rating": -1,
             "vn_id": 69
         },
         "1329": {
@@ -10015,20 +10015,175 @@
             "rating": 1,
             "vn_id": 25
         },
+        "2921": {
+            "member_id": 400788245065236481,
+            "rating": 1,
+            "vn_id": 25
+        },
+        "2922": {
+            "member_id": 400788245065236481,
+            "rating": 1,
+            "vn_id": 24
+        },
+        "2923": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 59
+        },
+        "2924": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 54
+        },
+        "2925": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 49
+        },
+        "2926": {
+            "member_id": 322430458916765696,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "2927": {
+            "member_id": 322430458916765696,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "2928": {
+            "member_id": 322430458916765696,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "2929": {
+            "member_id": 723238105724878959,
+            "rating": 1,
+            "vn_id": 38
+        },
         "293": {
             "member_id": 247982981455675393,
             "rating": 1,
             "vn_id": 25
+        },
+        "2930": {
+            "member_id": 322430458916765696,
+            "rating": -1,
+            "vn_id": 64
+        },
+        "2931": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "2932": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 66
+        },
+        "2933": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "2934": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "2935": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "2936": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 37
+        },
+        "2937": {
+            "member_id": 199295867805630464,
+            "rating": -1,
+            "vn_id": 68
+        },
+        "2938": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "2939": {
+            "member_id": 199295867805630464,
+            "rating": -1,
+            "vn_id": 64
         },
         "294": {
             "member_id": 244980143477489664,
             "rating": 1,
             "vn_id": 25
         },
+        "2940": {
+            "member_id": 199295867805630464,
+            "rating": -1,
+            "vn_id": 66
+        },
+        "2941": {
+            "member_id": 199295867805630464,
+            "rating": -1,
+            "vn_id": 70
+        },
+        "2942": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "2943": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "2944": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 83
+        },
+        "2945": {
+            "member_id": 199295867805630464,
+            "rating": -1,
+            "vn_id": 84
+        },
+        "2946": {
+            "member_id": 199295867805630464,
+            "rating": -1,
+            "vn_id": 91
+        },
+        "2947": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "2948": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 40
+        },
+        "2949": {
+            "member_id": 300308194507620362,
+            "rating": -1,
+            "vn_id": 41
+        },
         "295": {
             "member_id": 225423221011251201,
             "rating": 1,
             "vn_id": 25
+        },
+        "2950": {
+            "member_id": 300308194507620362,
+            "rating": 1,
+            "vn_id": 61
+        },
+        "2951": {
+            "member_id": 300308194507620362,
+            "rating": 1,
+            "vn_id": 24
         },
         "296": {
             "member_id": 202129631694946305,
@@ -13392,7 +13547,7 @@
         },
         "918": {
             "member_id": 300308194507620362,
-            "rating": 1,
+            "rating": -1,
             "vn_id": 46
         },
         "919": {
@@ -13901,6 +14056,18 @@
             "store": "https://littlenapoleon.itch.io/changelingtale",
             "undetermined": false
         },
+        "106": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "JDERingtail"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750021905188126840/2BpfAbT.png",
+            "message_id": 750021936758784081,
+            "name": "Ad Infinitum",
+            "store": "https://jderingtail.itch.io/ad-infinitum",
+            "undetermined": true
+        },
         "11": {
             "abbreviations": [],
             "android_support": false,
@@ -14077,7 +14244,8 @@
         },
         "24": {
             "abbreviations": [
-                "bth"
+                "bth",
+                "harbor"
             ],
             "android_support": true,
             "authors": [
@@ -14264,17 +14432,18 @@
         },
         "38": {
             "abbreviations": [
-                "flw"
+                "flw",
+                "4lw"
             ],
             "android_support": true,
             "authors": [
                 "Kho"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749949388066914374/jX6gNh.gif",
-            "message_id": 749990126477770854,
+            "message_id": 750011726619082933,
             "name": "Four Letter Word",
             "store": "https://kho.itch.io/four-letter-word",
-            "undetermined": true
+            "undetermined": false
         },
         "39": {
             "abbreviations": [],
@@ -14888,7 +15057,11 @@
             "undetermined": false
         },
         "83": {
-            "abbreviations": [],
+            "abbreviations": [
+                "route65",
+                "65",
+                "route"
+            ],
             "android_support": true,
             "authors": [
                 "EchoProject"
