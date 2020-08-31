@@ -2,41 +2,229 @@
     "rating": {
         "1": {
             "member_id": 129819557115199488,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "10": {
+            "member_id": 268934223824551936,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "11": {
+            "member_id": 261580254148034560,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "12": {
+            "member_id": 254262856411906048,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "13": {
+            "member_id": 244600757079244800,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "14": {
+            "member_id": 232033206084304896,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "15": {
+            "member_id": 227142609460527106,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "16": {
+            "member_id": 202129631694946305,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "17": {
+            "member_id": 200311450219053057,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "18": {
+            "member_id": 195022309772230656,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "19": {
+            "member_id": 168690183078805504,
             "rating": 1,
             "vn_id": 1
         },
         "2": {
+            "member_id": 586342869837545503,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "20": {
+            "member_id": 154248307353321472,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "21": {
+            "member_id": 93980723656007680,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "22": {
+            "member_id": 554684813936689154,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "23": {
+            "member_id": 540207594002710538,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "24": {
+            "member_id": 490388603957018634,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "25": {
+            "member_id": 453285599835586602,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "26": {
+            "member_id": 357270997662957569,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "27": {
+            "member_id": 347717172426178560,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "28": {
+            "member_id": 342040596577386506,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "29": {
+            "member_id": 300308194507620362,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "3": {
+            "member_id": 464248579729391646,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "30": {
+            "member_id": 280107437766475798,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "31": {
+            "member_id": 268098770443436032,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "32": {
+            "member_id": 244260513062584320,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "33": {
+            "member_id": 217522732244533254,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "34": {
+            "member_id": 189514035304071168,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "35": {
+            "member_id": 172474776231739392,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "36": {
+            "member_id": 161884445656350720,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "37": {
+            "member_id": 155381287647969280,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "38": {
+            "member_id": 148894809413779456,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "39": {
+            "member_id": 116484888915476487,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "4": {
+            "member_id": 421485172010123284,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "40": {
+            "member_id": 115581873861820420,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "41": {
+            "member_id": 102853862162968576,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "42": {
             "member_id": 154594175008899072,
             "rating": 1,
-            "vn_id": 2
+            "vn_id": 1
+        },
+        "5": {
+            "member_id": 378346658494152716,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "6": {
+            "member_id": 363308487855570955,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "7": {
+            "member_id": 330427976057618433,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "8": {
+            "member_id": 305450188225642496,
+            "rating": 1,
+            "vn_id": 1
+        },
+        "9": {
+            "member_id": 275232153888096256,
+            "rating": 1,
+            "vn_id": 1
         }
     },
     "visual_novel": {
         "1": {
             "abbreviations": [
-                "fbi"
+                "bg"
             ],
             "android_support": true,
             "authors": [
-                "Xarishro"
+                "Bane"
             ],
-            "image": "https://cdn.discordapp.com/attachments/709761292709396615/749446656415498270/NWfZYy.png",
-            "message_id": 749918697707143208,
-            "name": "Fueled By Insanity",
-            "store": "https://xarishro.itch.io/fueled-by-insanity",
-            "undetermined": false
-        },
-        "2": {
-            "abbreviations": [],
-            "android_support": true,
-            "authors": [
-                "The Echo Project"
-            ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749917970570018816/rfT4O2F.png",
-            "message_id": 749918097972002917,
-            "name": "Echo",
-            "store": "https://echoproject.itch.io/echo",
-            "undetermined": false
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749935020839272538/Capture.png",
+            "message_id": 749935273390899261,
+            "name": "Blackgate",
+            "store": "https://www.patreon.com/blackgategame",
+            "undetermined": true
         }
     }
 }
