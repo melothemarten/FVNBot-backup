@@ -10535,6 +10535,31 @@
             "rating": 1,
             "vn_id": 12
         },
+        "3014": {
+            "member_id": 165891558086934528,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "3015": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 47
+        },
+        "3016": {
+            "member_id": 263379648535068673,
+            "rating": 1,
+            "vn_id": 90
+        },
+        "3017": {
+            "member_id": 263379648535068673,
+            "rating": 1,
+            "vn_id": 89
+        },
+        "3018": {
+            "member_id": 739985633455374436,
+            "rating": 1,
+            "vn_id": 79
+        },
         "302": {
             "member_id": 421485172010123284,
             "rating": 1,
@@ -14685,10 +14710,10 @@
                 "Platier"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749947252822507520/chAPnT.png",
-            "message_id": 749990098950422598,
+            "message_id": 750110268046049341,
             "name": "Hero's Advent",
             "store": "https://platier.itch.io/heros-advent",
-            "undetermined": true
+            "undetermined": false
         },
         "34": {
             "abbreviations": [],
@@ -14872,10 +14897,10 @@
                 "GhostieSpectie"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749953590369452032/q2BkO2Fm.png",
-            "message_id": 749990177572913273,
+            "message_id": 750110325054898236,
             "name": "THE BEAST",
             "store": "https://ghostrickfrost.itch.io/the-beast-visual-novel",
-            "undetermined": true
+            "undetermined": false
         },
         "48": {
             "abbreviations": [],
