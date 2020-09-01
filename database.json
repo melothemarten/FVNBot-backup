@@ -8875,80 +8875,15 @@
             "rating": -1,
             "vn_id": 100
         },
-        "2709": {
-            "member_id": 586342869837545503,
-            "rating": 1,
-            "vn_id": 101
-        },
         "271": {
             "member_id": 347717172426178560,
             "rating": 1,
             "vn_id": 24
         },
-        "2710": {
-            "member_id": 465950537100296193,
-            "rating": -1,
-            "vn_id": 101
-        },
-        "2711": {
-            "member_id": 453285599835586602,
-            "rating": 1,
-            "vn_id": 101
-        },
-        "2712": {
-            "member_id": 421485172010123284,
-            "rating": 1,
-            "vn_id": 101
-        },
-        "2713": {
-            "member_id": 307163761842716672,
-            "rating": 1,
-            "vn_id": 101
-        },
-        "2714": {
-            "member_id": 180882434202664961,
-            "rating": 1,
-            "vn_id": 101
-        },
-        "2715": {
-            "member_id": 174216556027314176,
-            "rating": 1,
-            "vn_id": 101
-        },
-        "2716": {
-            "member_id": 689594584506040362,
-            "rating": -1,
-            "vn_id": 101
-        },
-        "2717": {
-            "member_id": 494141594749108255,
-            "rating": -1,
-            "vn_id": 101
-        },
-        "2718": {
-            "member_id": 357270997662957569,
-            "rating": -1,
-            "vn_id": 101
-        },
-        "2719": {
-            "member_id": 244980143477489664,
-            "rating": -1,
-            "vn_id": 101
-        },
         "272": {
             "member_id": 324277557262286853,
             "rating": 1,
             "vn_id": 24
-        },
-        "2720": {
-            "member_id": 141669591905468416,
-            "rating": -1,
-            "vn_id": 101
-        },
-        "2721": {
-            "member_id": 129819557115199488,
-            "rating": -1,
-            "vn_id": 101
         },
         "2722": {
             "member_id": 129819557115199488,
@@ -10785,11 +10720,6 @@
             "rating": 1,
             "vn_id": 100
         },
-        "3064": {
-            "member_id": 158744118095380483,
-            "rating": -1,
-            "vn_id": 101
-        },
         "3065": {
             "member_id": 158744118095380483,
             "rating": 1,
@@ -10809,11 +10739,6 @@
             "member_id": 291200749344522250,
             "rating": -1,
             "vn_id": 87
-        },
-        "3069": {
-            "member_id": 291200749344522250,
-            "rating": 1,
-            "vn_id": 101
         },
         "307": {
             "member_id": 212378311563804672,
@@ -14670,18 +14595,6 @@
             "message_id": 749990480355524748,
             "name": "Stronger Bonds",
             "store": "https://strongerbonds.itch.io/stronger-bonds",
-            "undetermined": false
-        },
-        "101": {
-            "abbreviations": [],
-            "android_support": true,
-            "authors": [
-                "Nine Inch Tails"
-            ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749974099375423488/4LzFwW.png",
-            "message_id": 749990485699067918,
-            "name": "When the Stars Come Down on Us",
-            "store": "https://nineinchtails.itch.io/whenthestars",
             "undetermined": false
         },
         "102": {
