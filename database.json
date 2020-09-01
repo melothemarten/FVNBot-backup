@@ -14803,6 +14803,18 @@
             "store": "https://ziul-walls.itch.io/soft-fantasies",
             "undetermined": true
         },
+        "111": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "ordinarysstar"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750409459817512990/3D2Qdr.png",
+            "message_id": 750409498404847628,
+            "name": "Panda Dynasty",
+            "store": "https://ordinarysstar.itch.io/pandadynasty",
+            "undetermined": true
+        },
         "12": {
             "abbreviations": [],
             "android_support": true,
