@@ -5437,7 +5437,7 @@
         },
         "2063": {
             "member_id": 139831019783192577,
-            "rating": 1,
+            "rating": -1,
             "vn_id": 82
         },
         "2064": {
@@ -8337,7 +8337,7 @@
         },
         "261": {
             "member_id": 139831019783192577,
-            "rating": 1,
+            "rating": -1,
             "vn_id": 23
         },
         "2610": {
@@ -11000,28 +11000,288 @@
             "rating": 1,
             "vn_id": 60
         },
+        "3117": {
+            "member_id": 320286597872484372,
+            "rating": 1,
+            "vn_id": 75
+        },
+        "3118": {
+            "member_id": 320286597872484372,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "3119": {
+            "member_id": 320286597872484372,
+            "rating": 1,
+            "vn_id": 26
+        },
         "312": {
             "member_id": 421485172010123284,
             "rating": 1,
             "vn_id": 28
+        },
+        "3120": {
+            "member_id": 139831019783192577,
+            "rating": -1,
+            "vn_id": 67
+        },
+        "3121": {
+            "member_id": 139831019783192577,
+            "rating": -1,
+            "vn_id": 47
+        },
+        "3122": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 111
+        },
+        "3123": {
+            "member_id": 537056231425179649,
+            "rating": -1,
+            "vn_id": 89
+        },
+        "3124": {
+            "member_id": 537056231425179649,
+            "rating": -1,
+            "vn_id": 82
+        },
+        "3125": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "3126": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 66
+        },
+        "3127": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3128": {
+            "member_id": 247982981455675393,
+            "rating": 1,
+            "vn_id": 47
+        },
+        "3129": {
+            "member_id": 247982981455675393,
+            "rating": -1,
+            "vn_id": 99
         },
         "313": {
             "member_id": 338847397167890432,
             "rating": 1,
             "vn_id": 28
         },
+        "3130": {
+            "member_id": 138749853256646658,
+            "rating": 1,
+            "vn_id": 65
+        },
+        "3131": {
+            "member_id": 138749853256646658,
+            "rating": 1,
+            "vn_id": 66
+        },
+        "3132": {
+            "member_id": 138749853256646658,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "3133": {
+            "member_id": 138749853256646658,
+            "rating": -1,
+            "vn_id": 38
+        },
+        "3134": {
+            "member_id": 138749853256646658,
+            "rating": 1,
+            "vn_id": 33
+        },
+        "3135": {
+            "member_id": 471271601824858118,
+            "rating": -1,
+            "vn_id": 89
+        },
+        "3136": {
+            "member_id": 471271601824858118,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "3137": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 112
+        },
+        "3138": {
+            "member_id": 353461160986804234,
+            "rating": 1,
+            "vn_id": 40
+        },
+        "3139": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 33
+        },
         "314": {
             "member_id": 280127265537523712,
             "rating": 1,
             "vn_id": 28
+        },
+        "3140": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 25
+        },
+        "3141": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 104
+        },
+        "3142": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 102
+        },
+        "3143": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "3144": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 97
+        },
+        "3145": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 96
+        },
+        "3146": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "3147": {
+            "member_id": 462529418359734283,
+            "rating": -1,
+            "vn_id": 89
+        },
+        "3148": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 86
+        },
+        "3149": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 82
         },
         "315": {
             "member_id": 212378311563804672,
             "rating": -1,
             "vn_id": 28
         },
+        "3150": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 79
+        },
+        "3151": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "3152": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 76
+        },
+        "3153": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 75
+        },
+        "3154": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 73
+        },
+        "3155": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "3156": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "3157": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 70
+        },
+        "3158": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 69
+        },
+        "3159": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 67
+        },
         "316": {
             "member_id": 663129120472956968,
+            "rating": 1,
+            "vn_id": 29
+        },
+        "3160": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 66
+        },
+        "3161": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3162": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "3163": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 77
+        },
+        "3164": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 68
+        },
+        "3165": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 50
+        },
+        "3166": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 45
+        },
+        "3167": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 36
+        },
+        "3168": {
+            "member_id": 462529418359734283,
             "rating": 1,
             "vn_id": 29
         },
@@ -11030,15 +11290,150 @@
             "rating": 1,
             "vn_id": 29
         },
+        "3170": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 22
+        },
+        "3171": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 21
+        },
+        "3172": {
+            "member_id": 462529418359734283,
+            "rating": 1,
+            "vn_id": 10
+        },
+        "3173": {
+            "member_id": 462529418359734283,
+            "rating": -1,
+            "vn_id": 1
+        },
+        "3174": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 102
+        },
+        "3175": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 59
+        },
+        "3176": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 49
+        },
+        "3177": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 97
+        },
+        "3178": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 95
+        },
+        "3179": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 94
+        },
         "318": {
             "member_id": 586342869837545503,
             "rating": 1,
             "vn_id": 29
         },
+        "3180": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "3181": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 86
+        },
+        "3182": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 83
+        },
+        "3183": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "3184": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 81
+        },
+        "3185": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 79
+        },
+        "3186": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 75
+        },
+        "3187": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 70
+        },
+        "3188": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 67
+        },
+        "3189": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 66
+        },
         "319": {
             "member_id": 453285599835586602,
             "rating": 1,
             "vn_id": 29
+        },
+        "3190": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3192": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "3195": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 36
+        },
+        "3196": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 20
+        },
+        "3197": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 19
+        },
+        "3198": {
+            "member_id": 184817548368281603,
+            "rating": -1,
+            "vn_id": 18
+        },
+        "3199": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 17
         },
         "32": {
             "member_id": 244260513062584320,
@@ -11050,50 +11445,540 @@
             "rating": 1,
             "vn_id": 29
         },
+        "3202": {
+            "member_id": 138749853256646658,
+            "rating": 1,
+            "vn_id": 112
+        },
+        "3203": {
+            "member_id": 184171856587259905,
+            "rating": 1,
+            "vn_id": 111
+        },
+        "3204": {
+            "member_id": 723238105724878959,
+            "rating": 1,
+            "vn_id": 113
+        },
+        "3205": {
+            "member_id": 723238105724878959,
+            "rating": 1,
+            "vn_id": 61
+        },
+        "3206": {
+            "member_id": 689594584506040362,
+            "rating": -1,
+            "vn_id": 107
+        },
+        "3207": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 62
+        },
+        "3208": {
+            "member_id": 357270997662957569,
+            "rating": -1,
+            "vn_id": 61
+        },
+        "3209": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 60
+        },
         "321": {
             "member_id": 347717172426178560,
             "rating": 1,
             "vn_id": 29
+        },
+        "3210": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 59
+        },
+        "3211": {
+            "member_id": 357270997662957569,
+            "rating": -1,
+            "vn_id": 58
+        },
+        "3212": {
+            "member_id": 357270997662957569,
+            "rating": -1,
+            "vn_id": 53
+        },
+        "3213": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 41
+        },
+        "3214": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 29
+        },
+        "3215": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 23
+        },
+        "3216": {
+            "member_id": 357270997662957569,
+            "rating": -1,
+            "vn_id": 22
+        },
+        "3217": {
+            "member_id": 739418726612598814,
+            "rating": -1,
+            "vn_id": 115
+        },
+        "3218": {
+            "member_id": 512784054593257472,
+            "rating": 1,
+            "vn_id": 60
+        },
+        "3219": {
+            "member_id": 512784054593257472,
+            "rating": 1,
+            "vn_id": 54
         },
         "322": {
             "member_id": 330427976057618433,
             "rating": 1,
             "vn_id": 29
         },
+        "3220": {
+            "member_id": 512784054593257472,
+            "rating": 1,
+            "vn_id": 49
+        },
+        "3221": {
+            "member_id": 289950906081083413,
+            "rating": 1,
+            "vn_id": 102
+        },
+        "3222": {
+            "member_id": 380844746442014723,
+            "rating": -1,
+            "vn_id": 115
+        },
+        "3223": {
+            "member_id": 692116498499502121,
+            "rating": 1,
+            "vn_id": 56
+        },
+        "3224": {
+            "member_id": 453285599835586602,
+            "rating": 1,
+            "vn_id": 47
+        },
+        "3225": {
+            "member_id": 453285599835586602,
+            "rating": -1,
+            "vn_id": 115
+        },
+        "3226": {
+            "member_id": 453285599835586602,
+            "rating": -1,
+            "vn_id": 118
+        },
+        "3227": {
+            "member_id": 138749853256646658,
+            "rating": 1,
+            "vn_id": 47
+        },
+        "3228": {
+            "member_id": 629849124572889089,
+            "rating": 1,
+            "vn_id": 104
+        },
+        "3229": {
+            "member_id": 629849124572889089,
+            "rating": 1,
+            "vn_id": 98
+        },
         "323": {
             "member_id": 247982981455675393,
             "rating": 1,
             "vn_id": 29
+        },
+        "3230": {
+            "member_id": 629849124572889089,
+            "rating": -1,
+            "vn_id": 94
+        },
+        "3231": {
+            "member_id": 629849124572889089,
+            "rating": -1,
+            "vn_id": 82
+        },
+        "3232": {
+            "member_id": 477072665165692929,
+            "rating": 1,
+            "vn_id": 121
+        },
+        "3233": {
+            "member_id": 477072665165692929,
+            "rating": 1,
+            "vn_id": 123
+        },
+        "3234": {
+            "member_id": 477072665165692929,
+            "rating": 1,
+            "vn_id": 125
+        },
+        "3235": {
+            "member_id": 268098770443436032,
+            "rating": 1,
+            "vn_id": 125
+        },
+        "3236": {
+            "member_id": 268098770443436032,
+            "rating": 1,
+            "vn_id": 112
+        },
+        "3237": {
+            "member_id": 745473504660684851,
+            "rating": -1,
+            "vn_id": 95
+        },
+        "3238": {
+            "member_id": 745473504660684851,
+            "rating": 1,
+            "vn_id": 87
+        },
+        "3239": {
+            "member_id": 205715738504200193,
+            "rating": 1,
+            "vn_id": 25
         },
         "324": {
             "member_id": 232033206084304896,
             "rating": 1,
             "vn_id": 29
         },
+        "3240": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 38
+        },
+        "3241": {
+            "member_id": 716332167856128052,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "3242": {
+            "member_id": 453285599835586602,
+            "rating": 1,
+            "vn_id": 125
+        },
+        "3243": {
+            "member_id": 716332167856128052,
+            "rating": 1,
+            "vn_id": 102
+        },
+        "3244": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "3245": {
+            "member_id": 208693540073504768,
+            "rating": 1,
+            "vn_id": 62
+        },
+        "3246": {
+            "member_id": 353461160986804234,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "3247": {
+            "member_id": 154594175008899072,
+            "rating": -1,
+            "vn_id": 52
+        },
+        "3248": {
+            "member_id": 689594584506040362,
+            "rating": 1,
+            "vn_id": 77
+        },
+        "3249": {
+            "member_id": 537056231425179649,
+            "rating": 1,
+            "vn_id": 41
+        },
         "325": {
             "member_id": 225423221011251201,
             "rating": 1,
             "vn_id": 29
+        },
+        "3250": {
+            "member_id": 286411656165326849,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "3251": {
+            "member_id": 286411656165326849,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3252": {
+            "member_id": 286411656165326849,
+            "rating": -1,
+            "vn_id": 82
+        },
+        "3253": {
+            "member_id": 286411656165326849,
+            "rating": 1,
+            "vn_id": 83
+        },
+        "3254": {
+            "member_id": 286411656165326849,
+            "rating": -1,
+            "vn_id": 85
+        },
+        "3255": {
+            "member_id": 286411656165326849,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "3256": {
+            "member_id": 286411656165326849,
+            "rating": 1,
+            "vn_id": 94
+        },
+        "3257": {
+            "member_id": 139831019783192577,
+            "rating": -1,
+            "vn_id": 85
+        },
+        "3258": {
+            "member_id": 407171982933884928,
+            "rating": 1,
+            "vn_id": 104
+        },
+        "3259": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 38
         },
         "326": {
             "member_id": 212378311563804672,
             "rating": 1,
             "vn_id": 29
         },
+        "3260": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 97
+        },
+        "3261": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 96
+        },
+        "3262": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 91
+        },
+        "3263": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 83
+        },
+        "3264": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "3265": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "3266": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 76
+        },
+        "3267": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 75
+        },
+        "3268": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 73
+        },
+        "3269": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 72
+        },
         "327": {
             "member_id": 189517082994540544,
             "rating": 1,
             "vn_id": 29
+        },
+        "3270": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "3271": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3272": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "3273": {
+            "member_id": 440613443696066561,
+            "rating": 1,
+            "vn_id": 114
+        },
+        "3274": {
+            "member_id": 681013248602013708,
+            "rating": -1,
+            "vn_id": 64
+        },
+        "3275": {
+            "member_id": 681013248602013708,
+            "rating": 1,
+            "vn_id": 65
+        },
+        "3276": {
+            "member_id": 681013248602013708,
+            "rating": -1,
+            "vn_id": 67
+        },
+        "3277": {
+            "member_id": 681013248602013708,
+            "rating": 1,
+            "vn_id": 70
+        },
+        "3278": {
+            "member_id": 681013248602013708,
+            "rating": 1,
+            "vn_id": 73
+        },
+        "3279": {
+            "member_id": 681013248602013708,
+            "rating": 1,
+            "vn_id": 75
         },
         "328": {
             "member_id": 184817548368281603,
             "rating": 1,
             "vn_id": 29
         },
+        "3280": {
+            "member_id": 681013248602013708,
+            "rating": 1,
+            "vn_id": 93
+        },
+        "3281": {
+            "member_id": 693923462535970895,
+            "rating": -1,
+            "vn_id": 96
+        },
+        "3282": {
+            "member_id": 693923462535970895,
+            "rating": -1,
+            "vn_id": 92
+        },
+        "3283": {
+            "member_id": 693923462535970895,
+            "rating": -1,
+            "vn_id": 91
+        },
+        "3284": {
+            "member_id": 693923462535970895,
+            "rating": -1,
+            "vn_id": 67
+        },
+        "3285": {
+            "member_id": 693923462535970895,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3286": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 66
+        },
+        "3287": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "3288": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "3289": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 71
+        },
         "329": {
             "member_id": 172474776231739392,
             "rating": 1,
             "vn_id": 29
+        },
+        "3290": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "3291": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 75
+        },
+        "3292": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "3293": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "3294": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "3295": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "3296": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 60
+        },
+        "3297": {
+            "member_id": 148210380005572608,
+            "rating": 1,
+            "vn_id": 60
+        },
+        "3298": {
+            "member_id": 346329163193647104,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "3299": {
+            "member_id": 289365869036044288,
+            "rating": -1,
+            "vn_id": 99
         },
         "33": {
             "member_id": 217522732244533254,
@@ -11104,6 +11989,51 @@
             "member_id": 165891558086934528,
             "rating": 1,
             "vn_id": 29
+        },
+        "3300": {
+            "member_id": 247982981455675393,
+            "rating": 1,
+            "vn_id": 68
+        },
+        "3301": {
+            "member_id": 128297706392256514,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "3302": {
+            "member_id": 128297706392256514,
+            "rating": 1,
+            "vn_id": 90
+        },
+        "3303": {
+            "member_id": 179038326974578688,
+            "rating": 1,
+            "vn_id": 21
+        },
+        "3304": {
+            "member_id": 478595995890876446,
+            "rating": 1,
+            "vn_id": 103
+        },
+        "3305": {
+            "member_id": 478595995890876446,
+            "rating": 1,
+            "vn_id": 87
+        },
+        "3306": {
+            "member_id": 478595995890876446,
+            "rating": 1,
+            "vn_id": 86
+        },
+        "3307": {
+            "member_id": 478595995890876446,
+            "rating": 1,
+            "vn_id": 84
+        },
+        "3308": {
+            "member_id": 233154264556503040,
+            "rating": 1,
+            "vn_id": 94
         },
         "331": {
             "member_id": 141822044676423680,
@@ -13002,7 +13932,7 @@
         },
         "685": {
             "member_id": 689594584506040362,
-            "rating": 1,
+            "rating": -1,
             "vn_id": 52
         },
         "686": {
@@ -14848,6 +15778,102 @@
             "store": "https://ordinarysstar.itch.io/pandadynasty",
             "undetermined": true
         },
+        "112": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Enro Shiva"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751041577148743741/1596305532.obcerd_build03slideshow.gif",
+            "message_id": 751041658560184371,
+            "name": "Flora and Sauna",
+            "store": "https://www.patreon.com/EnroShiva",
+            "undetermined": true
+        },
+        "113": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Bivium"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751401269872033812/O2IBPQ.png",
+            "message_id": 751401304340824105,
+            "name": "Yakuza Cats",
+            "store": "https://bivium.itch.io/yakuza-cats",
+            "undetermined": true
+        },
+        "114": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Digital Poppy"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/736604856512675861/751558951186858070/FEfruX.png",
+            "message_id": 751563967029051526,
+            "name": "Trixie",
+            "store": "https://digital-poppy.itch.io/trixie",
+            "undetermined": false
+        },
+        "115": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Sex Curse Studio"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751559412635926558/WTjoN8.png",
+            "message_id": 751559512946769950,
+            "name": "Erolon: Dungeon Bound",
+            "store": "https://sexcursestudio.itch.io/erolon",
+            "undetermined": true
+        },
+        "116": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "OverClockStudios"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751560097607450664/2FXkveN.png",
+            "message_id": 751560145493819515,
+            "name": "Tail Saga : The Princess Apprentice",
+            "store": "https://overclock.itch.io/tail-saga-the-princess-apprentice",
+            "undetermined": true
+        },
+        "117": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "OmegaOzone"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751560426617307139/iCGtgu.gif",
+            "message_id": 751560467557777500,
+            "name": "Dungeon Tail",
+            "store": "https://omegaozone.itch.io/dungeon-tail",
+            "undetermined": true
+        },
+        "118": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Taifun Riders"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751560763776172052/wTJWND.png",
+            "message_id": 751560808973992076,
+            "name": "Space Paws",
+            "store": "https://taifunriders.itch.io/space-paws",
+            "undetermined": true
+        },
+        "119": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Krinn DNZ"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751561060435230760/dSKcTB.png",
+            "message_id": 751715493471059969,
+            "name": "Monstergirl Mansion",
+            "store": "https://krinndnz.itch.io/monstergirl-mansion",
+            "undetermined": false
+        },
         "12": {
             "abbreviations": [],
             "android_support": true,
@@ -14858,6 +15884,90 @@
             "message_id": 749989980960587826,
             "name": "B101",
             "store": "https://maxiess.itch.io/b101",
+            "undetermined": true
+        },
+        "120": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "nadiva nova"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751561423871803422/1ILZmo.png",
+            "message_id": 751561484399673364,
+            "name": "why is this dragon so fucking cute??",
+            "store": "https://nadianova.itch.io/why-is-this-dragon-so-fucking-cute",
+            "undetermined": true
+        },
+        "121": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "nidava nova"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751561716411793418/NG966a.gif",
+            "message_id": 751561773198606357,
+            "name": "drifting in circles",
+            "store": "https://nadianova.itch.io/drifting-in-circles",
+            "undetermined": true
+        },
+        "122": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Floraverse"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751562198710616176/YwcJTm.png",
+            "message_id": 751562252267552848,
+            "name": "Alice's Day Off [demo]",
+            "store": "https://floraverse.itch.io/alices-day-off-demo",
+            "undetermined": true
+        },
+        "123": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "SKY HOUR WORKS"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751562744230314025/rnWWUh.png",
+            "message_id": 751562773221081198,
+            "name": "A NIGHTMARE'S TRIP",
+            "store": "https://skyhour.itch.io/a-nightmares-trip",
+            "undetermined": true
+        },
+        "124": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Koicrow"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751563050007396454/GIB6OM.png",
+            "message_id": 751563080525283339,
+            "name": "My Cryptic Crush",
+            "store": "https://koicrow.itch.io/my-cryptid-crush",
+            "undetermined": true
+        },
+        "125": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Tookipalooki"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751563367830782063/YxalzO.png",
+            "message_id": 751563404174557265,
+            "name": "Chook and Sosig",
+            "store": "https://tookipalooki.itch.io/chook-and-sosig",
+            "undetermined": true
+        },
+        "126": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "tesspieceface"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/751563709163372686/4X3JYE.png",
+            "message_id": 751563736128553072,
+            "name": "Daisy Chain",
+            "store": "https://tesspieceface.itch.io/daisy-chain",
             "undetermined": true
         },
         "13": {
@@ -15678,7 +16788,7 @@
         },
         "72": {
             "abbreviations": [],
-            "android_support": false,
+            "android_support": true,
             "authors": [
                 "Grizz"
             ],
