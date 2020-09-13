@@ -12070,6 +12070,21 @@
             "rating": 1,
             "vn_id": 54
         },
+        "3315": {
+            "member_id": 220681087389663232,
+            "rating": 1,
+            "vn_id": 42
+        },
+        "3316": {
+            "member_id": 304779179000463360,
+            "rating": 1,
+            "vn_id": 42
+        },
+        "3317": {
+            "member_id": 453285599835586602,
+            "rating": 1,
+            "vn_id": 42
+        },
         "332": {
             "member_id": 89107532336869376,
             "rating": 1,
@@ -16410,10 +16425,10 @@
                 "Googs"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749952029945757716/MjzR0v.gif",
-            "message_id": 749990149458231337,
+            "message_id": 754489176698912789,
             "name": "Crescendo",
             "store": "https://googs.itch.io/crescendo",
-            "undetermined": true
+            "undetermined": false
         },
         "43": {
             "abbreviations": [],
