@@ -16180,6 +16180,20 @@
             "store": "https://tesspieceface.itch.io/daisy-chain",
             "undetermined": true
         },
+        "127": {
+            "abbreviations": [
+                "bsm"
+            ],
+            "android_support": false,
+            "authors": [
+                "HikaruThe13th"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/755012838044729404/xciWdD.png",
+            "message_id": 755012879350104095,
+            "name": "Bitter Sweet Memories",
+            "store": "https://hikaruthe13th.itch.io/bitter-sweet-memories",
+            "undetermined": true
+        },
         "13": {
             "abbreviations": [],
             "android_support": true,
