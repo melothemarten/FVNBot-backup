@@ -12380,6 +12380,11 @@
             "rating": 1,
             "vn_id": 127
         },
+        "3372": {
+            "member_id": 241536987612446720,
+            "rating": 1,
+            "vn_id": 128
+        },
         "339": {
             "member_id": 116484888915476487,
             "rating": 1,
@@ -16286,12 +16291,12 @@
             ],
             "android_support": false,
             "authors": [
-                "HikaruThe13th"
+                "the_13th"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/755012838044729404/xciWdD.png",
             "message_id": 755012879350104095,
             "name": "Bitter Sweet Memories",
-            "store": "https://hikaruthe13th.itch.io/bitter-sweet-memories",
+            "store": "https://the-13th.itch.io/bitter-sweet-memories",
             "undetermined": true
         },
         "128": {
