@@ -12270,6 +12270,41 @@
             "rating": 1,
             "vn_id": 37
         },
+        "3352": {
+            "member_id": 199295867805630464,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3353": {
+            "member_id": 205715738504200193,
+            "rating": 1,
+            "vn_id": 37
+        },
+        "3354": {
+            "member_id": 205715738504200193,
+            "rating": 1,
+            "vn_id": 24
+        },
+        "3355": {
+            "member_id": 205715738504200193,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3356": {
+            "member_id": 225423221011251201,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3357": {
+            "member_id": 225423221011251201,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "3358": {
+            "member_id": 145312300910247936,
+            "rating": 1,
+            "vn_id": 128
+        },
         "336": {
             "member_id": 347717172426178560,
             "rating": 1,
@@ -16192,6 +16227,18 @@
             "message_id": 755012879350104095,
             "name": "Bitter Sweet Memories",
             "store": "https://hikaruthe13th.itch.io/bitter-sweet-memories",
+            "undetermined": true
+        },
+        "128": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "EchoProject"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/755213066337124432/lXv8JK.png",
+            "message_id": 755213129318662166,
+            "name": "Khemia",
+            "store": "https://echoproject.itch.io/khemia",
             "undetermined": true
         },
         "13": {
