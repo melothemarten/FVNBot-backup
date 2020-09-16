@@ -12420,6 +12420,31 @@
             "rating": 1,
             "vn_id": 128
         },
+        "3380": {
+            "member_id": 147665321895919616,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3381": {
+            "member_id": 333120405705326593,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3382": {
+            "member_id": 129819557115199488,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3383": {
+            "member_id": 532668013036568596,
+            "rating": 1,
+            "vn_id": 128
+        },
+        "3385": {
+            "member_id": 644123076589649920,
+            "rating": 1,
+            "vn_id": 129
+        },
         "339": {
             "member_id": 116484888915476487,
             "rating": 1,
@@ -16344,6 +16369,18 @@
             "message_id": 755213129318662166,
             "name": "Khemia",
             "store": "https://echoproject.itch.io/khemia",
+            "undetermined": true
+        },
+        "129": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Roar Howl Night Studio"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/755823084606586971/2.png",
+            "message_id": 755823101509370027,
+            "name": "Disguise",
+            "store": "https://www.patreon.com/RoarHowlNightStudio",
             "undetermined": true
         },
         "13": {
