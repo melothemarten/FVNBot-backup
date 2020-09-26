@@ -13055,6 +13055,21 @@
             "rating": 1,
             "vn_id": 31
         },
+        "3500": {
+            "member_id": 224833889703559178,
+            "rating": 1,
+            "vn_id": 54
+        },
+        "3501": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "3502": {
+            "member_id": 155381287647969280,
+            "rating": 1,
+            "vn_id": 50
+        },
         "351": {
             "member_id": 232033206084304896,
             "rating": 1,
@@ -17462,10 +17477,10 @@
                 "Shirokoi"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749954463057444975/CGytCu.png",
-            "message_id": 749990195218088096,
+            "message_id": 759480900311973939,
             "name": "Temptation's Ballad",
             "store": "https://shirokoi.itch.io/temptations-ballad",
-            "undetermined": true
+            "undetermined": false
         },
         "51": {
             "abbreviations": [],
@@ -17513,10 +17528,10 @@
                 "Drakes"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749957475025027103/M2xEmA.png",
-            "message_id": 749990217720791151,
+            "message_id": 759480652822872105,
             "name": "Limits",
             "store": "https://drakes64.itch.io/limits",
-            "undetermined": true
+            "undetermined": false
         },
         "55": {
             "abbreviations": [],
