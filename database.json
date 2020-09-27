@@ -13110,6 +13110,21 @@
             "rating": 1,
             "vn_id": 31
         },
+        "3510": {
+            "member_id": 129819557115199488,
+            "rating": 1,
+            "vn_id": 131
+        },
+        "3511": {
+            "member_id": 351255714595078145,
+            "rating": 1,
+            "vn_id": 131
+        },
+        "3512": {
+            "member_id": 247982981455675393,
+            "rating": 1,
+            "vn_id": 131
+        },
         "352": {
             "member_id": 187992404228308992,
             "rating": 1,
@@ -17000,6 +17015,20 @@
             "message_id": 756038404462084186,
             "name": "Ocean Avenue",
             "store": "https://dirk-the-red-panda.itch.io/ocean-avenue",
+            "undetermined": true
+        },
+        "131": {
+            "abbreviations": [
+                "pc"
+            ],
+            "android_support": true,
+            "authors": [
+                "Rook"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/759693464996020234/79Va4Z.png",
+            "message_id": 759693511909310495,
+            "name": "Psychic Connections",
+            "store": "https://rookfluffy.itch.io/psychic-connections",
             "undetermined": true
         },
         "14": {
