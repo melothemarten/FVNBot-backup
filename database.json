@@ -13535,6 +13535,26 @@
             "rating": -1,
             "vn_id": 32
         },
+        "3590": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 132
+        },
+        "3591": {
+            "member_id": 269640691779502082,
+            "rating": 1,
+            "vn_id": 132
+        },
+        "3592": {
+            "member_id": 387356208421404673,
+            "rating": 1,
+            "vn_id": 132
+        },
+        "3593": {
+            "member_id": 387356208421404673,
+            "rating": 1,
+            "vn_id": 131
+        },
         "36": {
             "member_id": 161884445656350720,
             "rating": -1,
@@ -17401,6 +17421,18 @@
             "store": "https://rookfluffy.itch.io/psychic-connections",
             "undetermined": true
         },
+        "132": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "HypoNova"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/761262618832142397/IPjA2J.png",
+            "message_id": 761262655591284777,
+            "name": "Blossom City",
+            "store": "https://hyponova.itch.io/blossom-city",
+            "undetermined": true
+        },
         "14": {
             "abbreviations": [],
             "android_support": true,
@@ -17772,7 +17804,7 @@
             "authors": [
                 "Cockhole"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749949960811839488/LKCOA2F.png",
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/761265652337344536/itchio-cover5.png",
             "message_id": 750009833972826242,
             "name": "9:22",
             "store": "https://cockhole.itch.io/9-22",
