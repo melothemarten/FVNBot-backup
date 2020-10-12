@@ -14245,10 +14245,25 @@
             "rating": 1,
             "vn_id": 47
         },
+        "3719": {
+            "member_id": 512784054593257472,
+            "rating": 1,
+            "vn_id": 29
+        },
         "372": {
             "member_id": 617443082580918282,
             "rating": 1,
             "vn_id": 34
+        },
+        "3720": {
+            "member_id": 304779179000463360,
+            "rating": 1,
+            "vn_id": 29
+        },
+        "3721": {
+            "member_id": 758623715264036884,
+            "rating": 1,
+            "vn_id": 29
         },
         "373": {
             "member_id": 421485172010123284,
@@ -18264,10 +18279,10 @@
                 "Rausmutt"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749946076781477999/mrGslu.png",
-            "message_id": 749990076796370984,
+            "message_id": 765313312777961474,
             "name": "Shelter",
             "store": "https://rausmutt.itch.io/sheltervn",
-            "undetermined": true
+            "undetermined": false
         },
         "3": {
             "abbreviations": [],
