@@ -14350,10 +14350,65 @@
             "rating": 1,
             "vn_id": 29
         },
+        "3738": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 76
+        },
+        "3739": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 64
+        },
         "374": {
             "member_id": 330427976057618433,
             "rating": 1,
             "vn_id": 34
+        },
+        "3740": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "3741": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "3742": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 74
+        },
+        "3743": {
+            "member_id": 205451733780922369,
+            "rating": -1,
+            "vn_id": 82
+        },
+        "3744": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 85
+        },
+        "3745": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 97
+        },
+        "3746": {
+            "member_id": 205451733780922369,
+            "rating": -1,
+            "vn_id": 100
+        },
+        "3747": {
+            "member_id": 205451733780922369,
+            "rating": 1,
+            "vn_id": 104
+        },
+        "3748": {
+            "member_id": 252503403467374595,
+            "rating": 1,
+            "vn_id": 131
         },
         "375": {
             "member_id": 300125102719107073,
@@ -18146,6 +18201,30 @@
             "message_id": 761262655591284777,
             "name": "Blossom City",
             "store": "https://hyponova.itch.io/blossom-city",
+            "undetermined": true
+        },
+        "133": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "bileshroom"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/766054594291695646/TbfqJS.png",
+            "message_id": 766054622464049163,
+            "name": "A walk in the woods",
+            "store": "https://bileshroom.itch.io/a-walk-in-the-woods",
+            "undetermined": true
+        },
+        "134": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "mykanthrope"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/766055164733161512/Rpd0yh.png",
+            "message_id": 766055197305733130,
+            "name": "kindling",
+            "store": "https://mykanthrope.itch.io/kindling",
             "undetermined": true
         },
         "14": {
