@@ -14810,6 +14810,16 @@
             "rating": 1,
             "vn_id": 137
         },
+        "3821": {
+            "member_id": 453285599835586602,
+            "rating": 1,
+            "vn_id": 138
+        },
+        "3822": {
+            "member_id": 333120405705326593,
+            "rating": 1,
+            "vn_id": 138
+        },
         "383": {
             "member_id": 342040596577386506,
             "rating": 1,
@@ -18611,6 +18621,18 @@
             "message_id": 768601356402425876,
             "name": "Super Taco Crew",
             "store": "https://deckerwolf.itch.io/super-taco-crew",
+            "undetermined": true
+        },
+        "138": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "NekoPanda98"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/768834678823321651/1QqyeF.png",
+            "message_id": 768834710385590282,
+            "name": "Stranded",
+            "store": "https://nekopanda98.itch.io/stranded",
             "undetermined": true
         },
         "14": {
