@@ -15100,6 +15100,16 @@
             "rating": 1,
             "vn_id": 111
         },
+        "3875": {
+            "member_id": 150227380097646592,
+            "rating": 1,
+            "vn_id": 29
+        },
+        "3876": {
+            "member_id": 220681087389663232,
+            "rating": 1,
+            "vn_id": 111
+        },
         "388": {
             "member_id": 172474776231739392,
             "rating": 1,
@@ -19261,7 +19271,7 @@
             "authors": [
                 "Cockhole"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/761265652337344536/itchio-cover5.png",
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/772521544685584404/itchio-cover6.png",
             "message_id": 750009833972826242,
             "name": "9:22",
             "store": "https://cockhole.itch.io/9-22",
