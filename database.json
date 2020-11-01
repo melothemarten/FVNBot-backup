@@ -15095,6 +15095,11 @@
             "rating": 1,
             "vn_id": 40
         },
+        "3874": {
+            "member_id": 333120405705326593,
+            "rating": 1,
+            "vn_id": 111
+        },
         "388": {
             "member_id": 172474776231739392,
             "rating": 1,
@@ -18537,11 +18542,11 @@
             "authors": [
                 "ordinarysstar"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/750409459817512990/3D2Qdr.png",
-            "message_id": 750409498404847628,
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/772483548702703657/capa.png",
+            "message_id": 772491558846595079,
             "name": "Panda Dynasty",
             "store": "https://ordinarysstar.itch.io/pandadynasty",
-            "undetermined": true
+            "undetermined": false
         },
         "112": {
             "abbreviations": [],
