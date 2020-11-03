@@ -18930,6 +18930,18 @@
             "store": "https://nekopanda98.itch.io/stranded",
             "undetermined": true
         },
+        "139": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "mattmalificum"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/773140766062673920/NH19cJ.png",
+            "message_id": 773140822916988939,
+            "name": "When Stars Fall",
+            "store": "https://mattmalificum.itch.io/when-stars-fall",
+            "undetermined": true
+        },
         "14": {
             "abbreviations": [],
             "android_support": true,
