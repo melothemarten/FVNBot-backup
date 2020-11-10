@@ -15760,6 +15760,11 @@
             "rating": 1,
             "vn_id": 139
         },
+        "3995": {
+            "member_id": 194660227428253696,
+            "rating": -1,
+            "vn_id": 141
+        },
         "4": {
             "member_id": 421485172010123284,
             "rating": 1,
@@ -19507,6 +19512,30 @@
             "message_id": 749989991568113725,
             "name": "Keda",
             "store": "https://teo3.itch.io/keda",
+            "undetermined": true
+        },
+        "140": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Pasiphae Concern"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/775802300744728636/g24HeZ.png",
+            "message_id": 775802356540768310,
+            "name": "THRESHOLDVN",
+            "store": "https://pasiphaeconcern.itch.io/thresholdvndemo",
+            "undetermined": true
+        },
+        "141": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "DevilEroki"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/775803067382628412/2B9ifHW.png",
+            "message_id": 775803113025830944,
+            "name": "DevilHack",
+            "store": "https://devileroki.itch.io/devilhack",
             "undetermined": true
         },
         "15": {
