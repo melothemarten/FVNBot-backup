@@ -19678,6 +19678,18 @@
             "store": "https://devileroki.itch.io/devilhack",
             "undetermined": true
         },
+        "142": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Kaz VA"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/777596577157873684/jKwY6m.png",
+            "message_id": 777596754665275393,
+            "name": "Afternoon",
+            "store": "https://kaz-va.itch.io/afternoon",
+            "undetermined": true
+        },
         "15": {
             "abbreviations": [],
             "android_support": true,
