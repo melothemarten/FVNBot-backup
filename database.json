@@ -19720,6 +19720,18 @@
             "store": "https://kaz-va.itch.io/afternoon",
             "undetermined": true
         },
+        "143": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "DouglasKim"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/777937697587200020/2BFSMFj.png",
+            "message_id": 777937740317720586,
+            "name": "We Got Another Year",
+            "store": "https://douglaskim.itch.io/we-got-another-year-episode-1-patreon-demo",
+            "undetermined": true
+        },
         "15": {
             "abbreviations": [],
             "android_support": true,
