@@ -19822,6 +19822,18 @@
             "store": "https://douglaskim.itch.io/we-got-another-year-episode-1-patreon-demo",
             "undetermined": true
         },
+        "144": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Drowsy Drake"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/779654380696895509/E1l0Tv.png",
+            "message_id": 779654437207146508,
+            "name": "Cryptid Crush",
+            "store": "https://cryptid-keep.itch.io/cryptid-crush",
+            "undetermined": true
+        },
         "15": {
             "abbreviations": [],
             "android_support": true,
