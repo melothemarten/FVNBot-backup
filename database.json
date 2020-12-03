@@ -16635,10 +16635,35 @@
             "rating": 1,
             "vn_id": 141
         },
+        "4156": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 43
+        },
+        "4157": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 36
+        },
+        "4158": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 41
+        },
+        "4159": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 131
+        },
         "416": {
             "member_id": 142093947022475265,
             "rating": 1,
             "vn_id": 37
+        },
+        "4160": {
+            "member_id": 357626685354409984,
+            "rating": 1,
+            "vn_id": 60
         },
         "417": {
             "member_id": 120894846033461248,
@@ -20295,7 +20320,7 @@
             "authors": [
                 "Pasiphae Concern"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/775802300744728636/g24HeZ.png",
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/784161952371834942/H75EbD.jpg",
             "message_id": 775802356540768310,
             "name": "THRESHOLDVN",
             "store": "https://pasiphaeconcern.itch.io/thresholdvndemo",
@@ -20644,10 +20669,10 @@
                 "GigaSaddle"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749948519166771270/rCQCS9.gif",
-            "message_id": 749990115677569114,
+            "message_id": 784164019531153420,
             "name": "Pervader",
             "store": "https://gigasaddle.itch.io/pervader",
-            "undetermined": true
+            "undetermined": false
         },
         "37": {
             "abbreviations": [
@@ -20723,10 +20748,10 @@
                 "Xevvy"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749950226923782204/2BPtwqw.png",
-            "message_id": 749990144089784380,
+            "message_id": 784163290380894208,
             "name": "Sileo: Tales of a New Dawn",
             "store": "https://xevvy.itch.io/sileo",
-            "undetermined": true
+            "undetermined": false
         },
         "42": {
             "abbreviations": [],
@@ -20747,10 +20772,10 @@
                 "HugeCookie"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749952428488523867/9kE5KL.png",
-            "message_id": 749990154629939320,
+            "message_id": 784164215359275008,
             "name": "A Place to Call Home",
             "store": "https://hugecookie.itch.io/a-place-to-call-home",
-            "undetermined": true
+            "undetermined": false
         },
         "44": {
             "abbreviations": [],
@@ -21498,7 +21523,7 @@
             "authors": [
                 "Spedumon"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/749972662293626930/JhyH77.png",
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/784161381229527100/rHuaGG.jpg",
             "message_id": 749990463611732088,
             "name": "Small on Top",
             "store": "https://spedumon.itch.io/small-on-top",
