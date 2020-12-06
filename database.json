@@ -16750,10 +16750,35 @@
             "rating": 1,
             "vn_id": 85
         },
+        "4178": {
+            "member_id": 533758989427802112,
+            "rating": 1,
+            "vn_id": 131
+        },
+        "4179": {
+            "member_id": 533758989427802112,
+            "rating": 1,
+            "vn_id": 60
+        },
         "418": {
             "member_id": 116484888915476487,
             "rating": 1,
             "vn_id": 37
+        },
+        "4180": {
+            "member_id": 533758989427802112,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "4181": {
+            "member_id": 533758989427802112,
+            "rating": 1,
+            "vn_id": 64
+        },
+        "4182": {
+            "member_id": 533758989427802112,
+            "rating": 1,
+            "vn_id": 67
         },
         "419": {
             "member_id": 73375128251011072,
@@ -20453,6 +20478,18 @@
             "name": "Cryptid Crush",
             "store": "https://cryptid-keep.itch.io/cryptid-crush",
             "undetermined": true
+        },
+        "145": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Satyroom"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/785211585350205470/TZeV2Fo.png",
+            "message_id": 785211643390328872,
+            "name": "HeroicSphere-Episode1",
+            "store": "https://satyroom.itch.io/short-versheroicsphere-episode1-cyberwolf-barafurry",
+            "undetermined": false
         },
         "15": {
             "abbreviations": [],
