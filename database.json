@@ -17215,6 +17215,16 @@
             "rating": 1,
             "vn_id": 56
         },
+        "4262": {
+            "member_id": 246817507183296533,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "4263": {
+            "member_id": 224833889703559178,
+            "rating": 1,
+            "vn_id": 146
+        },
         "427": {
             "member_id": 453285599835586602,
             "rating": 1,
@@ -20880,6 +20890,18 @@
             "name": "HeroicSphere-Episode1",
             "store": "https://satyroom.itch.io/short-versheroicsphere-episode1-cyberwolf-barafurry",
             "undetermined": false
+        },
+        "146": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "GruntSteel"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/786865531286192178/5551Ww.png",
+            "message_id": 786865575002374184,
+            "name": "Distant Travels",
+            "store": "https://gruntsteel.itch.io/distant-travels",
+            "undetermined": true
         },
         "15": {
             "abbreviations": [],
