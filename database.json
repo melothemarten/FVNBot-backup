@@ -17900,10 +17900,40 @@
             "rating": 1,
             "vn_id": 146
         },
+        "4387": {
+            "member_id": 294758906649903104,
+            "rating": 1,
+            "vn_id": 152
+        },
+        "4388": {
+            "member_id": 338414535314767873,
+            "rating": 1,
+            "vn_id": 147
+        },
+        "4389": {
+            "member_id": 338414535314767873,
+            "rating": 1,
+            "vn_id": 129
+        },
         "439": {
             "member_id": 278224097974943744,
             "rating": 1,
             "vn_id": 38
+        },
+        "4390": {
+            "member_id": 338414535314767873,
+            "rating": -1,
+            "vn_id": 128
+        },
+        "4391": {
+            "member_id": 338414535314767873,
+            "rating": -1,
+            "vn_id": 117
+        },
+        "4392": {
+            "member_id": 338414535314767873,
+            "rating": 1,
+            "vn_id": 113
         },
         "44": {
             "member_id": 554684813936689154,
@@ -21513,6 +21543,42 @@
             "store": "https://gruntsteel.itch.io/distant-travels",
             "undetermined": true
         },
+        "147": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Levtai-Howl"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/797155369885368351/jxAZqv.png",
+            "message_id": 797155418044497982,
+            "name": "Pocket Rain Files",
+            "store": "https://levtai-howl.itch.io/pocket-rain-files",
+            "undetermined": true
+        },
+        "148": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Yukine"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/797155616966967327/8TQOvg.png",
+            "message_id": 797155663561359401,
+            "name": "Intertwined",
+            "store": "https://yukinealterma.itch.io/intertwined",
+            "undetermined": true
+        },
+        "149": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "RyuShinN"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/797155816254996610/2LD2FHO.png",
+            "message_id": 797155858127519794,
+            "name": "The Contract",
+            "store": "https://ryushinn.itch.io/the-contract",
+            "undetermined": true
+        },
         "15": {
             "abbreviations": [],
             "android_support": true,
@@ -21524,6 +21590,42 @@
             "name": "Nerus",
             "store": "https://roddorod.itch.io/nerus",
             "undetermined": false
+        },
+        "150": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Healer Main"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/797156069414535238/ibBYWb.png",
+            "message_id": 797156110892138557,
+            "name": "The Delta Academy",
+            "store": "https://healermain.itch.io/the-delta-academy",
+            "undetermined": true
+        },
+        "151": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "StarFur Industries"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/797156300558434345/3Lnv5J.png",
+            "message_id": 797156366082113608,
+            "name": "Graduation Romance",
+            "store": "https://starfur-industries.itch.io/graduation-romance",
+            "undetermined": true
+        },
+        "152": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Dracino"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/797156566495264878/5yZ2O1.png",
+            "message_id": 797156618311041035,
+            "name": "Valentine's Rain",
+            "store": "https://dracino.itch.io/valentines-rain",
+            "undetermined": true
         },
         "16": {
             "abbreviations": [],
