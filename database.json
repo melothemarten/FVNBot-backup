@@ -21832,6 +21832,18 @@
             "store": "https://dracino.itch.io/valentines-rain",
             "undetermined": true
         },
+        "153": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Packrat"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/799301436113420318/GlBmTx.png",
+            "message_id": 799301486777204787,
+            "name": "Brighthill Lodge",
+            "store": "https://packrat-entertainment.itch.io/brighthill-lodge",
+            "undetermined": true
+        },
         "16": {
             "abbreviations": [],
             "android_support": false,
