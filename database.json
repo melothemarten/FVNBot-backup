@@ -18265,6 +18265,11 @@
             "rating": 1,
             "vn_id": 153
         },
+        "4454": {
+            "member_id": 100227351912120320,
+            "rating": -1,
+            "vn_id": 154
+        },
         "446": {
             "member_id": 200311450219053057,
             "rating": 1,
@@ -21938,6 +21943,18 @@
             "name": "Brighthill Lodge",
             "store": "https://packrat-entertainment.itch.io/brighthill-lodge",
             "undetermined": true
+        },
+        "154": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "KAIJYU-09"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/800107713316913152/header.jpg",
+            "message_id": 800107781876744242,
+            "name": "Knights College",
+            "store": "https://store.steampowered.com/app/1510030/Knights_College/",
+            "undetermined": false
         },
         "16": {
             "abbreviations": [],
