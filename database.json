@@ -18865,6 +18865,11 @@
             "rating": 1,
             "vn_id": 131
         },
+        "4563": {
+            "member_id": 150593445033934848,
+            "rating": 1,
+            "vn_id": 154
+        },
         "457": {
             "member_id": 129819557115199488,
             "rating": 1,
@@ -22480,7 +22485,9 @@
             "undetermined": true
         },
         "154": {
-            "abbreviations": [],
+            "abbreviations": [
+                "knc"
+            ],
             "android_support": false,
             "authors": [
                 "KAIJYU-09"
@@ -22907,7 +22914,9 @@
             "undetermined": true
         },
         "46": {
-            "abbreviations": [],
+            "abbreviations": [
+                "wild_lips"
+            ],
             "android_support": true,
             "authors": [
                 "PedroLibros"
