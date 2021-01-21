@@ -19015,6 +19015,21 @@
             "rating": 1,
             "vn_id": 145
         },
+        "4591": {
+            "member_id": 394059338890608650,
+            "rating": -1,
+            "vn_id": 144
+        },
+        "4592": {
+            "member_id": 394059338890608650,
+            "rating": 1,
+            "vn_id": 139
+        },
+        "4593": {
+            "member_id": 385835632011771910,
+            "rating": 1,
+            "vn_id": 49
+        },
         "46": {
             "member_id": 363308487855570955,
             "rating": 1,
@@ -22627,6 +22642,18 @@
             "name": "Knights College",
             "store": "https://store.steampowered.com/app/1510030/Knights_College/",
             "undetermined": false
+        },
+        "155": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "spaceguybob"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/801927001321635852/6WG46X.png",
+            "message_id": 801927034493599754,
+            "name": "Layers of Stardust",
+            "store": "https://spaceguybob.itch.io/layers-of-stardust",
+            "undetermined": true
         },
         "16": {
             "abbreviations": [],
