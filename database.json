@@ -19930,10 +19930,60 @@
             "rating": 1,
             "vn_id": 147
         },
+        "4757": {
+            "member_id": 223272646580633600,
+            "rating": 1,
+            "vn_id": 157
+        },
+        "4758": {
+            "member_id": 180578935346561025,
+            "rating": 1,
+            "vn_id": 157
+        },
+        "4759": {
+            "member_id": 224833889703559178,
+            "rating": 1,
+            "vn_id": 157
+        },
         "476": {
             "member_id": 564501967192457234,
             "rating": 1,
             "vn_id": 40
+        },
+        "4760": {
+            "member_id": 353461160986804234,
+            "rating": 1,
+            "vn_id": 157
+        },
+        "4761": {
+            "member_id": 353461160986804234,
+            "rating": 1,
+            "vn_id": 154
+        },
+        "4762": {
+            "member_id": 502623225642090496,
+            "rating": -1,
+            "vn_id": 60
+        },
+        "4763": {
+            "member_id": 268098770443436032,
+            "rating": 1,
+            "vn_id": 157
+        },
+        "4764": {
+            "member_id": 659147258918600765,
+            "rating": 1,
+            "vn_id": 157
+        },
+        "4765": {
+            "member_id": 183746801587847169,
+            "rating": 1,
+            "vn_id": 157
+        },
+        "4766": {
+            "member_id": 184817548368281603,
+            "rating": 1,
+            "vn_id": 157
         },
         "477": {
             "member_id": 523867253779988490,
@@ -23478,6 +23528,19 @@
             "name": "Bountyfly - The downpour",
             "store": "https://doriam.itch.io/downpour",
             "undetermined": true
+        },
+        "157": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Drakes",
+                "GruntSteel"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/805819097480036362/s2Fvis6.png",
+            "message_id": 805819156892221493,
+            "name": "Steadfast",
+            "store": "https://drakes64.itch.io/steadfast",
+            "undetermined": false
         },
         "16": {
             "abbreviations": [],
