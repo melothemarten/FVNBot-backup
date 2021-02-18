@@ -24914,7 +24914,7 @@
         },
         "47": {
             "abbreviations": [],
-            "android_support": false,
+            "android_support": true,
             "authors": [
                 "GhostieSpectie"
             ],
