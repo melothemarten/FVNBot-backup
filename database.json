@@ -24515,6 +24515,18 @@
             "store": "https://www.patreon.com/sunkra",
             "undetermined": true
         },
+        "160": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "mullerornis"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/812237127836368896/rmAEUe.png",
+            "message_id": 812237164695388201,
+            "name": "Lands of Fire",
+            "store": "https://mullerornis.itch.io/lands-of-fire",
+            "undetermined": true
+        },
         "17": {
             "abbreviations": [
                 "noh"
