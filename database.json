@@ -24762,6 +24762,32 @@
             "store": "https://mullerornis.itch.io/lands-of-fire",
             "undetermined": true
         },
+        "161": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Zaggy Norse"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/815138423588257822/kbiTbt.png",
+            "message_id": 815138463447515146,
+            "name": "Lord of the Manor",
+            "store": "https://zaggynorse.itch.io/lord-of-the-manor",
+            "undetermined": true
+        },
+        "162": {
+            "abbreviations": [
+                "fatalforce"
+            ],
+            "android_support": false,
+            "authors": [
+                "darkdragon563"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/815138672172728370/4c9fJ8.png",
+            "message_id": 815138705727422475,
+            "name": "Fatal Force : The Tragedy of The Lone Wolf Arc",
+            "store": "https://darkdragon563.itch.io/fatal-force-the-tragedy-of-the-lone-wolf-arc",
+            "undetermined": true
+        },
         "17": {
             "abbreviations": [
                 "noh"
