@@ -21615,6 +21615,16 @@
             "rating": 1,
             "vn_id": 157
         },
+        "5063": {
+            "member_id": 192940460606488576,
+            "rating": 1,
+            "vn_id": 129
+        },
+        "5064": {
+            "member_id": 700593302168403979,
+            "rating": 1,
+            "vn_id": 163
+        },
         "507": {
             "member_id": 440613443696066561,
             "rating": 1,
@@ -25076,6 +25086,18 @@
             "message_id": 815138705727422475,
             "name": "Fatal Force : The Tragedy of The Lone Wolf Arc",
             "store": "https://darkdragon563.itch.io/fatal-force-the-tragedy-of-the-lone-wolf-arc",
+            "undetermined": true
+        },
+        "163": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "BigBuffDemonBoi"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/817689918574428170/RDM9IE.png",
+            "message_id": 817689956403249152,
+            "name": "A Hellish Journey",
+            "store": "https://bigbuffdemonboi.itch.io/a-hellish-journey",
             "undetermined": true
         },
         "17": {
