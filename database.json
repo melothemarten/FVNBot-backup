@@ -22490,6 +22490,21 @@
             "rating": 1,
             "vn_id": 68
         },
+        "5226": {
+            "member_id": 806557271580344330,
+            "rating": 1,
+            "vn_id": 165
+        },
+        "5227": {
+            "member_id": 300308194507620362,
+            "rating": 1,
+            "vn_id": 165
+        },
+        "5228": {
+            "member_id": 121281283958505472,
+            "rating": 1,
+            "vn_id": 165
+        },
         "523": {
             "member_id": 89107532336869376,
             "rating": 1,
@@ -25890,6 +25905,18 @@
             "message_id": 824401401647988777,
             "name": "London's Aesop",
             "store": "https://hyenadev.itch.io/londons-aesop",
+            "undetermined": true
+        },
+        "165": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Sedge"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828371281019011102/vC96yt.png",
+            "message_id": 828371327487836190,
+            "name": "No More Future",
+            "store": "https://sedgelord.itch.io/nomorefuture",
             "undetermined": true
         },
         "17": {
