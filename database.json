@@ -21270,11 +21270,6 @@
             "rating": 1,
             "vn_id": 41
         },
-        "5000": {
-            "member_id": 300308194507620362,
-            "rating": -1,
-            "vn_id": 160
-        },
         "5001": {
             "member_id": 424210189961527299,
             "rating": 1,
@@ -22570,10 +22565,80 @@
             "rating": 1,
             "vn_id": 41
         },
+        "5240": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 166
+        },
+        "5241": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 164
+        },
+        "5242": {
+            "member_id": 300308194507620362,
+            "rating": 1,
+            "vn_id": 166
+        },
+        "5244": {
+            "member_id": 419468662840492034,
+            "rating": -1,
+            "vn_id": 100
+        },
+        "5245": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "5246": {
+            "member_id": 419468662840492034,
+            "rating": -1,
+            "vn_id": 74
+        },
+        "5247": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "5248": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "5249": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 66
+        },
         "525": {
             "member_id": 129819557115199488,
             "rating": -1,
             "vn_id": 41
+        },
+        "5250": {
+            "member_id": 419468662840492034,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "5251": {
+            "member_id": 349792900005101568,
+            "rating": 1,
+            "vn_id": 166
+        },
+        "5252": {
+            "member_id": 349792900005101568,
+            "rating": 1,
+            "vn_id": 165
+        },
+        "5253": {
+            "member_id": 349792900005101568,
+            "rating": 1,
+            "vn_id": 164
+        },
+        "5254": {
+            "member_id": 349792900005101568,
+            "rating": 1,
+            "vn_id": 163
         },
         "526": {
             "member_id": 644123076589649920,
@@ -25974,6 +26039,54 @@
             "store": "https://sedgelord.itch.io/nomorefuture",
             "undetermined": true
         },
+        "166": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "AzzyFord"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828907485418225685/F04hJE.png",
+            "message_id": 828907528921284618,
+            "name": "Eden's Reach",
+            "store": "https://azzyford.itch.io/edensreach",
+            "undetermined": true
+        },
+        "167": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "CardPen"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911013441175552/YewWPE.png",
+            "message_id": 828911056130408448,
+            "name": "This Day",
+            "store": "https://cardpen.itch.io/thisday",
+            "undetermined": true
+        },
+        "168": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Eymon"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911188812627968/hno2BmM.png",
+            "message_id": 828911233519321089,
+            "name": "The Blue Cloth",
+            "store": "https://eymonart.itch.io/the-blue-cloth",
+            "undetermined": true
+        },
+        "169": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "high-tea"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911387471249438/9Qyzfl.png",
+            "message_id": 828911420078030858,
+            "name": "Yoga Bear",
+            "store": "https://high-tea.itch.io/yoga-bear",
+            "undetermined": true
+        },
         "17": {
             "abbreviations": [
                 "noh"
@@ -25986,6 +26099,30 @@
             "message_id": 786011122590547969,
             "name": "Notes of Hearts",
             "store": "https://www.patreon.com/NotesofHearts",
+            "undetermined": true
+        },
+        "170": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Clarkyboy014"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911686932103228/BHXXuU.png",
+            "message_id": 828911747942318080,
+            "name": "From The Inside",
+            "store": "https://clarkyboy014.itch.io/from-the-inside",
+            "undetermined": true
+        },
+        "171": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Akuro"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911914376495104/rs0eeR.png",
+            "message_id": 828911955674005515,
+            "name": "Over The Moon",
+            "store": "https://akumu-club.itch.io/over-the-moon",
             "undetermined": true
         },
         "18": {
