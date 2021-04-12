@@ -22860,6 +22860,16 @@
             "rating": 1,
             "vn_id": 165
         },
+        "5298": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 154
+        },
+        "5299": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 131
+        },
         "53": {
             "member_id": 154248307353321472,
             "rating": 1,
@@ -22870,10 +22880,100 @@
             "rating": 1,
             "vn_id": 42
         },
+        "5300": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 98
+        },
+        "5301": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 96
+        },
+        "5302": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 92
+        },
+        "5303": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 86
+        },
+        "5304": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 82
+        },
+        "5305": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 78
+        },
+        "5306": {
+            "member_id": 829015720641691659,
+            "rating": -1,
+            "vn_id": 73
+        },
+        "5307": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 72
+        },
+        "5308": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 71
+        },
+        "5309": {
+            "member_id": 829015720641691659,
+            "rating": -1,
+            "vn_id": 64
+        },
         "531": {
             "member_id": 430302738128044032,
             "rating": 1,
             "vn_id": 42
+        },
+        "5310": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 63
+        },
+        "5311": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 60
+        },
+        "5312": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 50
+        },
+        "5313": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 40
+        },
+        "5314": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 38
+        },
+        "5315": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 36
+        },
+        "5316": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 29
+        },
+        "5317": {
+            "member_id": 829015720641691659,
+            "rating": 1,
+            "vn_id": 25
         },
         "532": {
             "member_id": 421485172010123284,
@@ -26270,10 +26370,10 @@
                 "Eymon"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911188812627968/hno2BmM.png",
-            "message_id": 828911233519321089,
+            "message_id": 831057773981728799,
             "name": "The Blue Cloth",
             "store": "https://eymonart.itch.io/the-blue-cloth",
-            "undetermined": true
+            "undetermined": false
         },
         "169": {
             "abbreviations": [],
