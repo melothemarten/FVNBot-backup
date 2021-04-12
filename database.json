@@ -26445,6 +26445,30 @@
             "store": "https://akumu-club.itch.io/over-the-moon",
             "undetermined": true
         },
+        "172": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "DekaWolf"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/831274243625975848/o2FgfiD.png",
+            "message_id": 831274304213745694,
+            "name": "Life Things",
+            "store": "https://dekawolf.itch.io/life-things-furry-visual-novel",
+            "undetermined": true
+        },
+        "173": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "JoshTywater"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/831274440687091712/n8aFRk.png",
+            "message_id": 831274475491819610,
+            "name": "Next Step",
+            "store": "https://joshtywater.itch.io/next-step",
+            "undetermined": true
+        },
         "18": {
             "abbreviations": [
                 "thk"
