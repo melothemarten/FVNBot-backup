@@ -23170,6 +23170,11 @@
             "rating": 1,
             "vn_id": 168
         },
+        "5354": {
+            "member_id": 154594175008899072,
+            "rating": -1,
+            "vn_id": 158
+        },
         "536": {
             "member_id": 247982981455675393,
             "rating": 1,
@@ -26411,10 +26416,10 @@
                 "WagleUnagi"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/810586855430815814/MdaRi4.gif",
-            "message_id": 810586757569183775,
+            "message_id": 833440912742678548,
             "name": "I'll Breakup With Him, It'll Pain",
             "store": "https://wagleunagi.itch.io/ill-breakup-with-him-itll-pain",
-            "undetermined": true
+            "undetermined": false
         },
         "159": {
             "abbreviations": [],
