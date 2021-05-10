@@ -28164,6 +28164,18 @@
             "store": "https://teamzorro.itch.io/sbarpg",
             "undetermined": true
         },
+        "178": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "BgPro"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/841362609533354014/HOlPJ9.png",
+            "message_id": 841362656186466374,
+            "name": "Bravo India Delta",
+            "store": "https://bgpro.itch.io/bravo-india-delta",
+            "undetermined": true
+        },
         "18": {
             "abbreviations": [
                 "thk"
