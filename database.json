@@ -24825,21 +24825,6 @@
             "rating": 1,
             "vn_id": 176
         },
-        "5667": {
-            "member_id": 338414535314767873,
-            "rating": -1,
-            "vn_id": 178
-        },
-        "5668": {
-            "member_id": 300308194507620362,
-            "rating": -1,
-            "vn_id": 178
-        },
-        "5669": {
-            "member_id": 121281283958505472,
-            "rating": -1,
-            "vn_id": 178
-        },
         "5670": {
             "member_id": 830854502563315753,
             "rating": 1,
@@ -24885,20 +24870,10 @@
             "rating": -1,
             "vn_id": 164
         },
-        "5679": {
-            "member_id": 217356812419072001,
-            "rating": 1,
-            "vn_id": 178
-        },
         "568": {
             "member_id": 694369761131495454,
             "rating": 1,
             "vn_id": 45
-        },
-        "5681": {
-            "member_id": 577259053223510026,
-            "rating": -1,
-            "vn_id": 178
         },
         "5682": {
             "member_id": 594520583979663371,
@@ -24924,11 +24899,6 @@
             "member_id": 813569065804496918,
             "rating": 1,
             "vn_id": 59
-        },
-        "5687": {
-            "member_id": 291358900324925440,
-            "rating": -1,
-            "vn_id": 178
         },
         "569": {
             "member_id": 611189874795479046,
@@ -28262,18 +28232,6 @@
             "message_id": 839193031215284305,
             "name": "Summoned by Accident",
             "store": "https://teamzorro.itch.io/sbarpg",
-            "undetermined": true
-        },
-        "178": {
-            "abbreviations": [],
-            "android_support": true,
-            "authors": [
-                "BgPro"
-            ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/841362609533354014/HOlPJ9.png",
-            "message_id": 841362656186466374,
-            "name": "Bravo India Delta",
-            "store": "https://bgpro.itch.io/bravo-india-delta",
             "undetermined": true
         },
         "18": {
