@@ -25200,6 +25200,16 @@
             "rating": 1,
             "vn_id": 35
         },
+        "5743": {
+            "member_id": 95625146395537408,
+            "rating": 1,
+            "vn_id": 146
+        },
+        "5744": {
+            "member_id": 182519618647228418,
+            "rating": 1,
+            "vn_id": 146
+        },
         "575": {
             "member_id": 465950537100296193,
             "rating": 1,
@@ -28072,11 +28082,11 @@
             "authors": [
                 "GruntSteel"
             ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/786962190959640637/xuF4ad.png",
-            "message_id": 786865575002374184,
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/843427241207922698/kLPz2Fe.png",
+            "message_id": 843427931731525642,
             "name": "Distant Travels",
             "store": "https://gruntsteel.itch.io/distant-travels",
-            "undetermined": true
+            "undetermined": false
         },
         "147": {
             "abbreviations": [],
