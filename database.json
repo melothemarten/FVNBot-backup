@@ -28539,6 +28539,18 @@
             "store": "https://teamzorro.itch.io/sbarpg",
             "undetermined": true
         },
+        "179": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Xerigart BuayaBiru"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/843534670275543070/2jocAl.png",
+            "message_id": 843534704132489246,
+            "name": "LENTERA",
+            "store": "https://xerigart.itch.io/lentera",
+            "undetermined": true
+        },
         "18": {
             "abbreviations": [
                 "thk"
