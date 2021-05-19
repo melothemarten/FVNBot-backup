@@ -25565,6 +25565,21 @@
             "rating": 1,
             "vn_id": 45
         },
+        "5810": {
+            "member_id": 154594175008899072,
+            "rating": 1,
+            "vn_id": 11
+        },
+        "5811": {
+            "member_id": 830854502563315753,
+            "rating": 1,
+            "vn_id": 11
+        },
+        "5812": {
+            "member_id": 182519618647228418,
+            "rating": 1,
+            "vn_id": 11
+        },
         "582": {
             "member_id": 303360830492377088,
             "rating": 1,
@@ -27924,10 +27939,10 @@
                 "Bara Diction"
             ],
             "image": "https://cdn.discordapp.com/attachments/749903945945710633/749940073310584832/Q1eG2X.png",
-            "message_id": 786011087245541376,
+            "message_id": 844665356759990323,
             "name": "My Time At Etheria",
-            "store": "https://bara-diction.itch.io/my-time-at-etheria-demo",
-            "undetermined": true
+            "store": "https://bara-diction.itch.io/my-time-at-etheria",
+            "undetermined": false
         },
         "110": {
             "abbreviations": [],
