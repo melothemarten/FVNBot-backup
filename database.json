@@ -29135,6 +29135,18 @@
             "store": "https://sandramj.itch.io/the-hayseed-knight",
             "undetermined": true
         },
+        "180": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "MoonToon"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/847932071833108510/8Adyjo.png",
+            "message_id": 847932138040197121,
+            "name": "Feral Attraction",
+            "store": "https://moontoon.itch.io/feral-attraction",
+            "undetermined": false
+        },
         "19": {
             "abbreviations": [],
             "android_support": false,
