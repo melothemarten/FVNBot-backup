@@ -26085,6 +26085,16 @@
             "rating": 1,
             "vn_id": 154
         },
+        "5907": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 186
+        },
+        "5908": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 187
+        },
         "591": {
             "member_id": 161884445656350720,
             "rating": -1,
@@ -29336,6 +29346,94 @@
             "name": "Feral Attraction",
             "store": "https://moontoon.itch.io/feral-attraction",
             "undetermined": false
+        },
+        "181": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "atmac"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850682521854279700/5x6TGi.png",
+            "message_id": 850682555341864960,
+            "name": "Lyre",
+            "store": "https://atmac.itch.io/lyre",
+            "undetermined": true
+        },
+        "182": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Kiro"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850682677724053507/dKduNF.png",
+            "message_id": 850682702461010012,
+            "name": "Morsmagia",
+            "store": "https://osikiro-lunasidus.itch.io/osikiroprojects-morsmagia",
+            "undetermined": true
+        },
+        "183": {
+            "abbreviations": [
+                "error0"
+            ],
+            "android_support": false,
+            "authors": [
+                "Apropos"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850682844870606858/zXPccX.png",
+            "message_id": 850682864244359168,
+            "name": "Error 0: New World Found",
+            "store": "https://apropos0.itch.io/error-0",
+            "undetermined": true
+        },
+        "184": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Maraagan"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850683000009130014/HrhLm9.png",
+            "message_id": 850683050835705857,
+            "name": "Tale of Avamphil",
+            "store": "https://maraagan.itch.io/tale-of-avamphil",
+            "undetermined": true
+        },
+        "185": {
+            "abbreviations": [
+                "misfits"
+            ],
+            "android_support": true,
+            "authors": [
+                "SilviaWild"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850683207992999956/haZ1A.gif",
+            "message_id": 850683247792357376,
+            "name": "Misfits - Two Sides of the Moon",
+            "store": "https://silviawild.itch.io/misfits-two-sides-of-the-moon",
+            "undetermined": true
+        },
+        "186": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "phibbean"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850683399541882890/F95ZE4.png",
+            "message_id": 850683436758597663,
+            "name": "In Case of Emergency",
+            "store": "https://phibbean.itch.io/in-case-of-emergency",
+            "undetermined": true
+        },
+        "187": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Jericho"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/850683548310044672/iI8Y0Y.png",
+            "message_id": 850683568270344202,
+            "name": "Remember the Flowers",
+            "store": "https://jerichowo.itch.io/remember-the-flowers",
+            "undetermined": true
         },
         "19": {
             "abbreviations": [],
