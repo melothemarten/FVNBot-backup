@@ -29860,6 +29860,30 @@
             "store": "https://jerichowo.itch.io/remember-the-flowers",
             "undetermined": true
         },
+        "188": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Toreso"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/852543167407587358/9kBfwM.png",
+            "message_id": 852543199498862614,
+            "name": "Blithe",
+            "store": "https://toreso.itch.io/blithe",
+            "undetermined": true
+        },
+        "189": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Riel VN Studio"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/852543358995005450/OUqzMb.png",
+            "message_id": 852543390973558804,
+            "name": "Eyes Of Souls",
+            "store": "https://riel-vn-studio.itch.io/eosvn",
+            "undetermined": true
+        },
         "19": {
             "abbreviations": [],
             "android_support": false,
@@ -29870,6 +29894,18 @@
             "message_id": 786011136486670366,
             "name": "Lunar",
             "store": "https://www.patreon.com/LunarGame",
+            "undetermined": true
+        },
+        "190": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Neon Anarchy"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/852543517855186974/FPvylK.png",
+            "message_id": 852543544992071700,
+            "name": "Rink Rust",
+            "store": "https://neon-anarchy.itch.io/rink-rust",
             "undetermined": true
         },
         "2": {
