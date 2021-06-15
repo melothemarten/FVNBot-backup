@@ -30423,6 +30423,18 @@
             "store": "https://neon-anarchy.itch.io/rink-rust",
             "undetermined": true
         },
+        "191": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Vermin Charr"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/854170761874505728/WvqgxB.png",
+            "message_id": 854170822654689280,
+            "name": "The Taste of Fire",
+            "store": "https://vermin-charr.itch.io/the-taste-of-fire",
+            "undetermined": true
+        },
         "2": {
             "abbreviations": [],
             "android_support": true,
