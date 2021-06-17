@@ -30560,6 +30560,30 @@
             "store": "https://vermin-charr.itch.io/the-taste-of-fire",
             "undetermined": true
         },
+        "192": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Leonardo Duchen"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/854996285630185502/YmIY1k.gif",
+            "message_id": 854996330581458944,
+            "name": "Rainoff Camp",
+            "store": "https://leoduchen.itch.io/rainoff-camp",
+            "undetermined": true
+        },
+        "193": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "Eviejr"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/854996485908463646/1o9Nye.png",
+            "message_id": 854996517952815105,
+            "name": "Always Gray",
+            "store": "https://eviejr.itch.io/always-gray",
+            "undetermined": true
+        },
         "2": {
             "abbreviations": [],
             "android_support": true,
