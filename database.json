@@ -22765,11 +22765,6 @@
             "rating": 1,
             "vn_id": 171
         },
-        "5287": {
-            "member_id": 543433356382306325,
-            "rating": 1,
-            "vn_id": 167
-        },
         "5288": {
             "member_id": 543433356382306325,
             "rating": 1,
@@ -23419,11 +23414,6 @@
             "member_id": 814533949061070858,
             "rating": 1,
             "vn_id": 169
-        },
-        "5408": {
-            "member_id": 814533949061070858,
-            "rating": 1,
-            "vn_id": 167
         },
         "5409": {
             "member_id": 814533949061070858,
@@ -24944,11 +24934,6 @@
             "member_id": 288901074838880257,
             "rating": 1,
             "vn_id": 169
-        },
-        "5699": {
-            "member_id": 288901074838880257,
-            "rating": 1,
-            "vn_id": 167
         },
         "57": {
             "member_id": 289365869036044288,
@@ -26804,11 +26789,6 @@
             "member_id": 397099185972838410,
             "rating": 1,
             "vn_id": 166
-        },
-        "6039": {
-            "member_id": 397099185972838410,
-            "rating": 1,
-            "vn_id": 167
         },
         "604": {
             "member_id": 349792900005101568,
@@ -30569,18 +30549,6 @@
             "message_id": 828907528921284618,
             "name": "Eden's Reach",
             "store": "https://azzyford.itch.io/edensreach",
-            "undetermined": true
-        },
-        "167": {
-            "abbreviations": [],
-            "android_support": false,
-            "authors": [
-                "CardPen"
-            ],
-            "image": "https://cdn.discordapp.com/attachments/749903945945710633/828911013441175552/YewWPE.png",
-            "message_id": 828911056130408448,
-            "name": "This Day",
-            "store": "https://cardpen.itch.io/thisday",
             "undetermined": true
         },
         "168": {
