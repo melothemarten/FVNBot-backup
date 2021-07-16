@@ -31581,6 +31581,18 @@
             "store": "https://dustytornado.itch.io/fallen-demo",
             "undetermined": true
         },
+        "196": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Bokedaidu"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/865639344077537290/ryQ0du.png",
+            "message_id": 865639420102705202,
+            "name": "Where the Demon Lurks",
+            "store": "https://bokedaidu.itch.io/where-the-demon-lurks-demo-version",
+            "undetermined": true
+        },
         "2": {
             "abbreviations": [],
             "android_support": true,
