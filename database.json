@@ -28755,6 +28755,46 @@
             "rating": 1,
             "vn_id": 50
         },
+        "6410": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 165
+        },
+        "6411": {
+            "member_id": 611189874795479046,
+            "rating": 1,
+            "vn_id": 130
+        },
+        "6412": {
+            "member_id": 357270997662957569,
+            "rating": 1,
+            "vn_id": 199
+        },
+        "6413": {
+            "member_id": 330427976057618433,
+            "rating": 1,
+            "vn_id": 197
+        },
+        "6414": {
+            "member_id": 330427976057618433,
+            "rating": 1,
+            "vn_id": 199
+        },
+        "6415": {
+            "member_id": 330427976057618433,
+            "rating": 1,
+            "vn_id": 194
+        },
+        "6416": {
+            "member_id": 692116498499502121,
+            "rating": 1,
+            "vn_id": 196
+        },
+        "6417": {
+            "member_id": 692116498499502121,
+            "rating": 1,
+            "vn_id": 165
+        },
         "642": {
             "member_id": 453285599835586602,
             "rating": 1,
@@ -31519,7 +31559,7 @@
         },
         "165": {
             "abbreviations": [],
-            "android_support": false,
+            "android_support": true,
             "authors": [
                 "Sedge"
             ],
