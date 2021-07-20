@@ -31923,6 +31923,42 @@
             "store": "https://bokedaidu.itch.io/where-the-demon-lurks-demo-version",
             "undetermined": true
         },
+        "197": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "Draite"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/867009193801547796/rIzuaJ.png",
+            "message_id": 867009217096581131,
+            "name": "Age of Awakening",
+            "store": "https://draite.itch.io/age-of-awakening",
+            "undetermined": true
+        },
+        "198": {
+            "abbreviations": [],
+            "android_support": false,
+            "authors": [
+                "ToddFawks"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/867009335523278858/1w8O5U.png",
+            "message_id": 867009362304303104,
+            "name": "HyperCam",
+            "store": "https://toddfawks.itch.io/hypercam",
+            "undetermined": true
+        },
+        "199": {
+            "abbreviations": [],
+            "android_support": true,
+            "authors": [
+                "ZordyKeaboo"
+            ],
+            "image": "https://cdn.discordapp.com/attachments/749903945945710633/867009519241265192/qrdTcM.png",
+            "message_id": 867009547141775405,
+            "name": "Home Zomewhere Else",
+            "store": "https://zordykeaboo.itch.io/home-zomewhere-else",
+            "undetermined": true
+        },
         "2": {
             "abbreviations": [],
             "android_support": true,
